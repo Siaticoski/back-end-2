@@ -115,4 +115,4 @@ const historicoInflacao = [
     { id: 114, ano: 2024, mes: 6, ipca: 0.21 }
   ];
   
-  exports.historicoInflacao = historicoInflacao;
+export default historicoInflacao;
